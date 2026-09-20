@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Pertanyaan pemakaian
+    url: https://github.com/Harbux-Store/Harbux_Pantau-#readme
+    about: Arti tiap menu dan cara mencatat transaksi dijelaskan di panduan pemakaian.
+  - name: Bantuan pemasangan
+    url: https://github.com/Harbux-Store/Harbux_Pantau-/blob/main/deploy/README.md
+    about: Langkah pasang di server Debian dan Vercel, urut dari awal.
+  - name: Laporan celah keamanan
+    url: https://github.com/Harbux-Store/Harbux_Pantau-/security/advisories/new
+    about: Jangan lewat issue publik — kirim tertutup lewat security advisory.
